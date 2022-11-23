@@ -1,0 +1,29 @@
+body{
+    background-color:#A5F1E9;
+}
+h1{
+    color: blue;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    
+}
+img{
+    text-align: justify;
+}
+#life h2{
+    text-align: center;
+}
+#life{
+    background-color:#E5D9B6;
+}
+
+.career h3{
+    text-align: left;
+
+}
+    .career{
+        background-color: #C7BCA1;
+    }
+    .image {
+        text-align: right;
+    }
